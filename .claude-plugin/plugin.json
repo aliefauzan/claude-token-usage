@@ -1,0 +1,6 @@
+{
+  "name": "token-usage",
+  "version": "0.1.0",
+  "description": "Pane and status entry showing your daily and monthly Claude Code token usage",
+  "types": "./types/index.d.ts"
+}
